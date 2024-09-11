@@ -4,7 +4,6 @@ import TvIcon from "@mui/icons-material/Tv";
 import SportsEsportsIcon from "@mui/icons-material/SportsEsports";
 import LiveTvIcon from "@mui/icons-material/LiveTv";
 import SchoolIcon from "@mui/icons-material/School";
-import FaceRetouchingNaturalIcon from "@mui/icons-material/FaceRetouchingNatural";
 import CheckroomIcon from "@mui/icons-material/Checkroom";
 import GraphicEqIcon from "@mui/icons-material/GraphicEq";
 import TheaterComedyIcon from "@mui/icons-material/TheaterComedy";
@@ -15,7 +14,7 @@ import MovieIcon from "@mui/icons-material/Movie";
 import TrendingUpIcon from "@mui/icons-material/TrendingUp";
 import SportsCricketIcon from "@mui/icons-material/SportsCricket";
 
-export const logo = "https://i.ibb.co/s9Qys2j/logo.png";
+export const logo =	"https://i.ibb.co/JpnV0Nf/logo.png";
 
 export const categories = [
 	{ name: "Latest", icon: <HomeIcon /> },
@@ -35,11 +34,9 @@ export const categories = [
 	{ name: "Stocks", icon: <TrendingUpIcon /> },
 ];
 
-export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
+export const demoThumbnailUrl = "https://i.ibb.co/Qk57NF4/yt.png";
 export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
 export const demoVideoUrl = "/video/GDa8kZLNhJ4";
-export const demoChannelTitle = "JavaScript Mastery";
-export const demoVideoTitle =
-	"Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI";
-export const demoProfilePicture =
-	"http://dergipark.org.tr/assets/app/images/buddy_sample.png";
+export const demoChannelTitle = "ReactJS Project";
+export const demoVideoTitle ="Youtube Clone made using React";
+export const demoProfilePicture = "https://i.ibb.co/48gKdpy/buddy-sample.png";
