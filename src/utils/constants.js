@@ -21,7 +21,7 @@ export const categories = [
 	{ name: "Trending", icon: <WhatshotIcon /> },
 	{ name: "Anime", icon: <TvIcon /> },
 	{ name: "News", icon: <NewspaperIcon /> },
-	{ name: "Education", icon: <SchoolIcon /> },
+	{ name: "Courses", icon: <SchoolIcon /> },
 	{ name: "Live", icon: <LiveTvIcon /> },
 	{ name: "PUBG", icon: <SportsEsportsIcon /> },
 	{ name: "Gaming", icon: <VideogameAssetIcon /> },
